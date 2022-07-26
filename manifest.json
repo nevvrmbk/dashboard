@@ -1,0 +1,8 @@
+{
+    "name": "h2",
+    "short_name": "h2",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f0f00f",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed magnam voluptatibus, dignissimos accusamus tenetur impedit laboriosam inventore fuga blanditiis deleniti nihil doloribus aut autem, corrupti repellat sunt recusandae atque explicabo."
+}
